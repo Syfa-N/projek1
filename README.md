@@ -1,2 +1,2 @@
-# projek1
-First project of PG
+# Sipa istri Guren
+First project of PG- sillyness.
